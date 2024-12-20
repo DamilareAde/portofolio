@@ -1,20 +1,11 @@
-<<<<<<< HEAD
-# portfolio_app
+Flutter Portfolio App
+This Flutter project is a modern portfolio application designed to showcase skills, projects, and contact details in a sleek and interactive way
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# portofolio
->>>>>>> 26b4010ab4a2988188aac7598836f321056fb53e
+📋 Overview
+Features:
+Splash Screen: An eye-catching animated introduction.
+About Page: Includes a flipping profile card and a live-typing text effect for an engaging overview.
+Projects Page: Displays projects in an interactive and organized grid.
+Contact Page: Animated Lottie icons that link directly to social media profiles or open an email composer.
+Dark/Light Mode: Switch seamlessly between themes.
+Responsive Design: Looks great on all device sizes.
